@@ -1,0 +1,5 @@
+*.txt
+map-*
+mr-tmp
+mr-out-*
+*.so
